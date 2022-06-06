@@ -1,7 +1,0 @@
-tahunbulan
-
-awaln= IO
-awalan = 
-
-___  Data cust __
-nama cust =
